@@ -1,3 +1,9 @@
 {
-    "baseUrl": "https://www.w3schools.com"
+    "baseUrl": "https://courses.ultimateqa.com",
+    "defaultCommandTimeout": 10000,
+    "env":{
+        "email": "qkyeuokasksejmqctt@kvhrs.com", 
+        "passwd": "123456789",
+        "MAILOSAUR_API_KEY": "CfZQdSSyKpyBMbpU"
+    }
 }

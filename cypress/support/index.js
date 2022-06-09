@@ -15,6 +15,10 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+import 'cypress-fill-command'
+import 'cypress-mailosaur'
+
+require('cypress-dark')
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
